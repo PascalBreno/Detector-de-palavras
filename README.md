@@ -3,7 +3,9 @@ Trabalho para a disciplina de tópicos especiais em inteligência artificial
 
 ## Informações:
 
-**Tema: Ordenação de arquivos de áudios relacionada ao tema dito**  
+**Tema:O uso de inteligência artificial para identificar e classificar pelo número
+de relevância os assuntos tratados dentro um conjunto de áudios de um
+dispositivo para uma perícia criminal **  
 **Por: Breno Felix de Souza**  
   
 ## Relatório:
