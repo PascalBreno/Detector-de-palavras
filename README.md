@@ -10,7 +10,7 @@ dispositivo para uma perícia criminal < /br>
   
 ## Relatório:
 
-# Contexto:# <p>Como gravações de áudio e vídeo vêm se tornando extremamente
+# Contexto: # <p>Como gravações de áudio e vídeo vêm se tornando extremamente
 popular em nosso dia a dia, consequentemente estão sendo muito
 utilizadas como provas nas mais diversas circunstâncias (lembre-se que
 muitas vezes é necessária autorização judicial para fazer determinadas
