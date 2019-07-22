@@ -5,7 +5,7 @@ Trabalho para a disciplina de tópicos especiais em inteligência artificial
 
 **Tema:** O uso de inteligência artificial para identificar e classificar pelo número
 de relevância os assuntos tratados dentro um conjunto de áudios de um
-dispositivo para uma perícia criminal < /br>
+dispositivo para uma perícia criminal </ br>
 **Por: Breno Felix de Souza**  
   
 ## Relatório:
