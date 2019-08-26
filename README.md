@@ -9,6 +9,31 @@ dispositivo para uma perícia criminal </ br>
 **Por: Breno Felix de Souza**  
   
 ## Relatório:
+## Treinamento
+Eu utilizei um modelo criado apartir de uma competição de espetograma e mais 5 modelos de Transfer Learning. Os modelos criados foram
+: 
+# desnet
+ ![Banana](https://cdn.discordapp.com/attachments/451788828513140756/615511323702198285/unknown.png)
+ ## 54.565mb
+
+# xception
+![Banana](https://cdn.discordapp.com/attachments/451788828513140756/615511388152135686/unknown.png)
+## 87.429mb
+# resnet
+![Banana](https://cdn.discordapp.com/attachments/451788828513140756/615511448214568991/unknown.png)
+## 98.177mb
+# inception
+![Banana](https://cdn.discordapp.com/attachments/451788828513140756/615511528396947466/unknown.png)
+## 89.439mb
+# vgg
+![Banana](https://cdn.discordapp.com/attachments/451788828513140756/615512564549419018/unknown.png)
+## 79.481mb
+
+Apesar desses valores, ao realizar o teste, o inception teve grandes problemas ao garantir a classe definida, e deu mais de 50% de erro nos testes realizados.
+
+# Execução
+
+Para executar o algoritmo, é retirado dentro de um áudio diversos espetogramas .A cada 0,5 segundo, um segundo inteiro é realizado o esptograma e executado o modelo de treinamento para identificar a classe correspondente.
 
 # Contexto: 
 <p>Como gravações de áudio e vídeo vêm se tornando extremamente
